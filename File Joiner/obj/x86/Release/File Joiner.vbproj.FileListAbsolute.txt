@@ -1,0 +1,10 @@
+C:\Users\875144\Desktop\Development\12_File Joiner\File Joiner\File Joiner\bin\Release\File Joiner.exe.config
+C:\Users\875144\Desktop\Development\12_File Joiner\File Joiner\File Joiner\bin\Release\File Joiner.exe
+C:\Users\875144\Desktop\Development\12_File Joiner\File Joiner\File Joiner\bin\Release\File Joiner.pdb
+C:\Users\875144\Desktop\Development\12_File Joiner\File Joiner\File Joiner\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\875144\Desktop\Development\12_File Joiner\File Joiner\File Joiner\obj\x86\Release\File_Joiner.Form1.resources
+C:\Users\875144\Desktop\Development\12_File Joiner\File Joiner\File Joiner\obj\x86\Release\File_Joiner.Resources.resources
+C:\Users\875144\Desktop\Development\12_File Joiner\File Joiner\File Joiner\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\875144\Desktop\Development\12_File Joiner\File Joiner\File Joiner\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\875144\Desktop\Development\12_File Joiner\File Joiner\File Joiner\obj\x86\Release\File Joiner.exe
+C:\Users\875144\Desktop\Development\12_File Joiner\File Joiner\File Joiner\obj\x86\Release\File Joiner.pdb
